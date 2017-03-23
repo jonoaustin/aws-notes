@@ -1,7 +1,7 @@
 # aws-notes
 Collection of random links I share with customers
 
-## VPC design
+## VPC design, networking
 #### Practical VPC Design
 https://medium.com/aws-activate-startup-blog/practical-vpc-design-8412e1a18dcc#.invgil7x7
   
@@ -10,6 +10,11 @@ https://aws.amazon.com/blogs/apn/amazon-vpc-for-on-premises-network-engineers-pa
   
 #### Amazon VPC for On-Premises Network Engineers, Part Two
 https://aws.amazon.com/blogs/apn/amazon-vpc-for-on-premises-network-engineers-part-two/
+
+#### Another day, another billion packets
+Learn how VPC works under the hood
+https://www.youtube.com/watch?v=3qln2u1Vr2E
+
 
 ## Identity & Access Management
 #### AWS Security Fundamentals
