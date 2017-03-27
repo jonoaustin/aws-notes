@@ -33,6 +33,7 @@ https://www.youtube.com/watch?v=Du478i9O_mc
 ## Optimization
 
 #### Saving 13 Million Computational Minutes per Day with Flame Graphs
-Going beyond infrastructure sizing, to find hot code paths that are wasting cycles
+Going beyond infrastructure righ-sizing, to find hot code paths that are wasting cycles
 http://techblog.netflix.com/2016/04/saving-13-million-computational-minutes.html
 
+####
