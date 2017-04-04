@@ -35,3 +35,10 @@ Great talk on grasping IAM policies
 #### Saving 13 Million Computational Minutes per Day with Flame Graphs
 Going beyond infrastructure righ-sizing, to find hot code paths that are wasting cycles
 + http://techblog.netflix.com/2016/04/saving-13-million-computational-minutes.html
+
+## Interesting stuff
+
+#### Tuesday Night Live with James Hamilton
+AWS VP & Distinguished Engineer James Hamilton looks under the hood on some of the underlying tech powering AWS
+
++ https://www.youtube.com/watch?v=AyOAjFNPAbA
